@@ -1,0 +1,129 @@
+{
+    "azedo": [
+        {
+            "nome": "Whiskey Sour",
+            "composicao": "Whiskey, suco de limão, xarope simples, clara de ovo"
+          },
+          {
+            "nome": "Daiquiri",
+            "composicao": "Rum, suco de limão, xarope simples"
+          },
+          {
+            "nome": "Sour Apple Martini",
+            "composicao": "Vodka de maçã, licor de maçã, suco de limão"
+          },
+          {
+            "nome": "Tom Collins",
+            "composicao": "Gin, suco de limão, xarope simples, água com gás"
+          },
+          {
+            "nome": "Margarita",
+            "composicao": "Tequila, licor de laranja, suco de limão"
+          },
+          {
+            "nome": "Caipirinha",
+            "composicao": "Cachaça, limão, açúcar"
+          },
+          {
+            "nome": "Gimlet",
+            "composicao": "Gin, suco de limão, xarope simples"
+          },
+          {
+            "nome": "Pisco Sour",
+            "composicao": "Pisco, suco de limão, xarope simples, clara de ovo"
+          },
+          {
+            "nome": "Sazerac",
+            "composicao": "Rye whiskey, absinto, açúcar, bitters de peychaud"
+          },
+          {
+            "nome": "Mimosa",
+            "composicao": "Champanhe, suco de laranja"
+          }
+    ],
+    "doce": [
+        {
+            "nome": "Mojito",
+            "composicao": "Rum, hortelã, limão, açúcar, água com gás"
+        },
+        {
+            "nome": "Piña Colada",
+            "composicao": "Rum, suco de abacaxi, leite de coco"
+        },
+        {
+            "nome": "Sex on the Beach",
+            "composicao": "Vodka, licor de pêssego, suco de laranja, suco de cranberry"
+        },
+        {
+            "nome": "Mai Tai",
+            "composicao": "Rum, licor de amêndoa, suco de limão, xarope de orgeat"
+        },
+        {
+            "nome": "Blue Lagoon",
+            "composicao": "Vodka, licor de curaçao blue, limonada"
+        },
+        {
+            "nome": "Cosmopolitan",
+            "composicao": "Vodka, licor de laranja, suco de limão, suco de cranberry"
+        },
+        {
+            "nome": "Chocolate Martini",
+            "composicao": "Vodka de chocolate, licor de cacau, creme de leite"
+        },
+        {
+            "nome": "Mudslide",
+            "composicao": "Vodka, licor de café, licor de cacau, creme de leite"
+        },
+        {
+            "nome": "White Russian",
+            "composicao": "Vodka, licor de café, creme de leite"
+        },
+        {
+            "nome": "Amaretto Sour",
+            "composicao": "Amaretto, suco de limão, clara de ovo"
+        }
+      ],
+      "amargo": [
+        {
+            "nome": "Negroni",
+            "composicao": "Gin, vermute tinto, Campari"
+        },
+        {
+            "nome": "Old Fashioned",
+            "composicao": "Bourbon, açúcar, angostura bitters, casca de laranja"
+        },
+        {
+            "nome": "Manhattan",
+            "composicao": "Bourbon, vermute doce, angostura bitters, cereja"
+        },
+        {
+            "nome": "Boulevardier",
+            "composicao": "Bourbon, vermute tinto, Campari"
+        },
+        {
+            "nome": "Whiskey Smash",
+            "composicao": "Bourbon, hortelã, xarope simples, limão"
+        },
+        {
+            "nome": "Americano",
+            "composicao": "Vermute tinto, Campari, água com gás"
+        },
+        {
+            "nome": "Aperol Spritz",
+            "composicao": "Aperol, Prosecco, água com gás"
+        },
+        {
+            "nome": "Corpse Reviver #2",
+            "composicao": "Gin, licor de laranja, vermute branco, absinto"
+        },
+        {
+            "nome": "Rob Roy",
+            "composicao": "Scotch whisky, vermute doce, angostura bitters"
+        },
+        {
+            "nome": "Black Manhattan",
+          "composicao": "Rye whiskey, amaro, angostura bitters"
+        }
+      ]
+  }
+  
